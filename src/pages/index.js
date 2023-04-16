@@ -1,0 +1,13 @@
+export { default as Home } from "./Home";
+export { default as Requests } from "./Requests";
+export { default as SingleRequestPage } from "./SingleRequestPage";
+export { default as AllFeedbacks } from "./AllFeedbacks";
+export { default as SingleReviewPage } from "./SingleReviewPage";
+export { default as UIPage } from "./UIPage";
+export { default as AddNewProjectUI } from "./AddNewProjectUI";
+export { default as SingleUIProject } from "./SingleUIProject";
+export { default as CasesProjects } from "./CasesProjects";
+export { default as SingleCaseStudyPage } from "./SingleCaseStudyPage";
+export { default as HomeData } from "./HomeData";
+export { default as AboutPageData } from "./AboutPageData";
+export { default as ResumeData } from "./ResumeData";

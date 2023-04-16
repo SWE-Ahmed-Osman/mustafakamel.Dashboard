@@ -1,0 +1,13 @@
+export { default as Feedbacks } from "./Feedbacks";
+export { default as HomeCards } from "./HomeCards";
+export { default as Orders } from "./Orders";
+export { default as SingleCard } from "./SingleCard";
+export { default as Request } from "./Request";
+export { default as ReviewFooter } from "./ReviewFooter";
+export { default as SingleReview } from "./SingleReview";
+export { default as UiProjectsList } from "./UiProjectsList";
+export { default as NewUiProjects } from "./NewUiProjects";
+export { default as Compaines } from "./Compaines";
+export { default as Form } from "./Form";
+export { default as Loading } from "./Loading";
+export { default as Error } from "./Error";
